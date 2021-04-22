@@ -1,0 +1,22 @@
+{
+  "name": "tryjane-cli",
+  "version": "1.0.0",
+  "description": "tryjane-cli 脚手架",
+  "main": "index.js",
+  "bin": {
+    "tryjane-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trylang/tryjane-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trylang/tryjane-cli/issues"
+  },
+  "homepage": "https://github.com/trylang/tryjane-cli#readme"
+}
